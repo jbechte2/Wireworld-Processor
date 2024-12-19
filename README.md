@@ -6,7 +6,7 @@ Provided standard cells:
 
 
 
-1-bit
+**1-bit**
 
 Full Adder
 
@@ -16,7 +16,7 @@ AND
 
 3 input XOR
 
-8-bit
+**8-bit**
 
 Flip-Flop
 
