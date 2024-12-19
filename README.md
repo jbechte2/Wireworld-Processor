@@ -4,18 +4,30 @@ by Jacob Bechtel
 
 Provided standard cells:
 
+
+
 1-bit
+
 Full Adder
+
 Flip-Flop
+
 AND
+
 3 input XOR
 
 8-bit
+
 Flip-Flop
+
 Full Adder
+
 Bitwise AND
+
 Bitwise OR
+
 Bitwise XOR
+
 Bitwise NOT
 
 2 singal 8-bit interposer, compatible with other 8-bit standard cells
